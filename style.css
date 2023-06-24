@@ -1,0 +1,16 @@
+.container {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  input, button {
+    display: block;
+    margin: 10px auto;
+  }
+  
+  .hidden {
+    display: none;
+  }
+  
